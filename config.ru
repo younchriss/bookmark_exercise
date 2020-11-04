@@ -1,3 +1,2 @@
-require_relative './lib/hello_world'
-
-run HelloWorld
+require_relative './app'
+run BookmarkManager
